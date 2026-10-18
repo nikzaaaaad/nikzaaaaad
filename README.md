@@ -1,4 +1,6 @@
-I'm **Nikzad**, I make things. I'm a construction manager/preconstruction specialist during the day, developing my apps at night, and producing music in my sleep.
+I'm **Nikzad**, I make things. 
+
+A construction manager/preconstruction specialist during the day, developing my apps at night, and producing music in my sleep.
 
 <table>
 <tr>
