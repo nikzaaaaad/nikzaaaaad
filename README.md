@@ -2,7 +2,6 @@
 
 A construction manager/preconstruction specialist during the day, developing my apps at night, and producing music in my sleep.
 
-### Things I'm building
 
 <p>
 <a href="https://jooj.nikzad.studio"><img src="images/jooj.jpg" alt="jooj — Independent games, thoughtfully made." width="49%"></a>
