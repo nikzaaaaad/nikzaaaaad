@@ -2,34 +2,58 @@
 
 A construction manager/preconstruction specialist during the day, developing my apps at night, and producing music in my sleep.
 
-### A few worlds I'm building
+### Things I'm building
 
-<a href="https://linkk.stream"><img src="images/linkkstream.jpg" alt="LinkkStream — My artist home." width="100%"></a>
-
-**[LinkkStream](https://linkk.stream)** · Coming soon<br>
-An artist home for music, releases, and listening links.
-
-<a href="https://polis.watch"><img src="images/polis-watch.jpg" alt="Polis.Watch — Look closer." width="100%"></a>
-
-**[Polis.Watch](https://polis.watch)** · Coming soon<br>
-Explore politicians' records and the sources behind them. Starting with Canadian federal politics.
-
-<img src="images/arxa.jpg" alt="ARXA — Connected construction tools." width="100%">
-
-**ARXA** · In progress<br>
-Connected tools for construction estimating, scheduling, and project work.
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://jooj.nikzad.studio"><img src="images/jooj.jpg" alt="jooj — Independent games, thoughtfully made." width="100%"></a>
+<p><strong><a href="https://jooj.nikzad.studio">jooj</a></strong> · Live<br>
+Independent games, thoughtfully made.</p>
+<br>
+</td>
+<td width="50%" valign="top">
+<a href="https://vertx.nikzad.studio"><img src="images/vertx.jpg" alt="Vertx Studio — A playground for UI ideas" width="100%"></a>
+<p><strong><a href="https://vertx.nikzad.studio">Vertx Studio</a></strong> · Live<br>
+A playground for UI ideas</p>
+<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="images/linkkstream.jpg" alt="LinkkStream — Show Your World" width="100%">
+<p><strong>LinkkStream</strong> · Coming soon<br>
+Show Your World</p>
+<br>
+</td>
+<td width="50%" valign="top">
+<img src="images/polis-watch.jpg" alt="Polis.Watch — Look closer. Where the story meets the record." width="100%">
+<p><strong>Polis.Watch</strong> · Coming soon<br>
+Look closer. Where the story meets the record.</p>
+<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="images/arxa.jpg" alt="ARXA — The new standard for preconstruction." width="100%">
+<p><strong>ARXA</strong> · In progress<br>
+The new standard for preconstruction.</p>
+<br>
+</td>
+<td width="50%" valign="top">
 <img src="images/fiil.jpg" alt="fiil — Your personal coach for self-discovery and growth." width="100%">
-
-**fiil** · In progress<br>
-A guided journey of reflection, practice, and discovery.
-
-<img src="images/flooow.jpg" alt="flooow — Follow your curiosity." width="100%">
-
-**Flooow** · In progress<br>
-Personal audio learning, with a path you can shape and progress you can return to.
-
-<a href="https://jooj.nikzad.studio"><img src="images/jooj.jpg" alt="jooj — Easy to enter, deep enough to stay." width="100%"></a>
-
-**[jooj](https://jooj.nikzad.studio)** · In progress<br>
-A small collection of thoughtfully made games. Play what's taking shape.
+<p><strong>fiil</strong> · In progress<br>
+Your personal coach for self-discovery and growth.</p>
+<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="images/flooow.jpg" alt="Flooow — Follow your curiosity." width="100%">
+<p><strong>Flooow</strong> · In progress<br>
+Follow your curiosity.</p>
+<br>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
