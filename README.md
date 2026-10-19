@@ -9,7 +9,7 @@ A construction manager/preconstruction specialist during the day, developing my 
 <a href="https://vertx.nikzad.studio"><img src="images/vertx.jpg" alt="Vertx Studio — A playground for UI ideas" width="49%"></a>
 </p>
 
-<strong><a href="https://jooj.nikzad.studio">jooj</a></strong> · Live &nbsp; · &nbsp; <strong><a href="https://vertx.nikzad.studio">Vertx Studio</a></strong> · Live
+<strong><a href="https://jooj.nikzad.studio">jooj</a></strong> &nbsp; · &nbsp; <strong><a href="https://vertx.nikzad.studio">Vertx Studio</a></strong>
 
 <br>
 
