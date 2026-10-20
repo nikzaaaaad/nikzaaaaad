@@ -2,38 +2,49 @@
 
 A construction manager/preconstruction specialist during the day, developing my apps at night, and producing music in my sleep.
 
+<a href="https://jooj.nikzad.studio"><img src="images/jooj.jpg" alt="jooj — Independent games, thoughtfully made." width="100%"></a>
 
-<p>
-<a href="https://jooj.nikzad.studio"><img src="images/jooj.jpg" alt="jooj — Independent games, thoughtfully made." width="49%"></a>
-<a href="https://vertx.nikzad.studio"><img src="images/vertx.jpg" alt="Vertx Studio — A playground for UI ideas" width="49%"></a>
-</p>
-
-<strong><a href="https://jooj.nikzad.studio">jooj</a></strong> &nbsp; · &nbsp; <strong><a href="https://vertx.nikzad.studio">Vertx Studio</a></strong>
+**[jooj](https://jooj.nikzad.studio)**<br>
+Independent games, thoughtfully made.
 
 <br>
 
-<p>
-<img src="images/linkkstream.jpg" alt="LinkkStream — Show Your World" width="49%">
-<img src="images/polis-watch.jpg" alt="Polis.Watch — Look closer. Where the story meets the record." width="49%">
-</p>
+<a href="https://vertx.nikzad.studio"><img src="images/vertx.jpg" alt="Vertx Studio — A playground for UI ideas" width="100%"></a>
 
-<strong>LinkkStream</strong> · Coming soon &nbsp; · &nbsp; <strong>Polis.Watch</strong> · Coming soon
+**[Vertx Studio](https://vertx.nikzad.studio)**<br>
+A playground for UI ideas
 
 <br>
 
-<p>
-<img src="images/arxa.jpg" alt="ARXA — The new standard for preconstruction." width="49%">
-<img src="images/fiil.jpg" alt="fiil — Your personal coach for self-discovery and growth." width="49%">
-</p>
+<img src="images/linkkstream.jpg" alt="LinkkStream — Your Artist Home" width="100%">
 
-<strong>ARXA</strong> · In progress &nbsp; · &nbsp; <strong>fiil</strong> · In progress
+**LinkkStream** · Coming soon<br>
+Your Artist Home
 
 <br>
 
-<p>
-<img src="images/flooow.jpg" alt="Flooow — Follow your curiosity." width="49%">
-</p>
+<img src="images/polis-watch.jpg" alt="Polis.Watch — Look closer. Where the story meets the record." width="100%">
 
-<strong>Flooow</strong> · In progress
+**Polis.Watch** · Coming soon<br>
+Look closer. Where the story meets the record.
 
 <br>
+
+<img src="images/arxa.jpg" alt="ARXA — The new standard for preconstruction." width="100%">
+
+**ARXA** · In progress<br>
+The new standard for preconstruction.
+
+<br>
+
+<img src="images/fiil.jpg" alt="fiil — Your personal coach for self-discovery and growth." width="100%">
+
+**fiil** · In progress<br>
+Your personal coach for self-discovery and growth.
+
+<br>
+
+<img src="images/flooow.jpg" alt="Flooow — Follow your curiosity." width="100%">
+
+**Flooow** · In progress<br>
+Follow your curiosity.
