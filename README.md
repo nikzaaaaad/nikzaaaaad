@@ -23,9 +23,9 @@ Bring your music and vision together in one artist home.
 
 <br>
 
-<a href="https://nikzados-polis-watch.vercel.app"><img src="images/polis-watch.jpg?rev=2d6402c" alt="Polis.Watch — Look closer — Where the story meets the record" width="100%"></a>
+<a href="https://polis-watch.vercel.app"><img src="images/polis-watch.jpg?rev=2d6402c" alt="Polis.Watch — Look closer — Where the story meets the record" width="100%"></a>
 
-**[Polis.Watch](https://nikzados-polis-watch.vercel.app)** · Coming soon<br>
+**[Polis.Watch](https://polis-watch.vercel.app)** · Coming soon<br>
 Explore politicians’ records and the evidence behind their positions.
 
 <br>
