@@ -16,9 +16,9 @@ Explore website and app components, browse page designs for inspiration, and exp
 
 <br>
 
-<img src="images/linkkstream.jpg" alt="LinkkStream — Your Artist Home" width="100%">
+<a href="https://linkk.stream"><img src="images/linkkstream.jpg" alt="LinkkStream — Your Artist Home" width="100%"></a>
 
-**LinkkStream** · Coming soon<br>
+**[LinkkStream](https://linkk.stream)** · Coming soon<br>
 Bring your music and vision together in one artist home.
 
 <br>
@@ -30,9 +30,9 @@ Explore politicians’ records and the evidence behind their positions.
 
 <br>
 
-<img src="images/arxa.jpg?rev=2d6402c" alt="ARXA — The new standard for preconstruction" width="100%">
+<a href="https://arxa.build"><img src="images/arxa.jpg?rev=2d6402c" alt="ARXA — The new standard for preconstruction" width="100%"></a>
 
-**ARXA** · In progress<br>
+**[ARXA](https://arxa.build)** · In progress<br>
 Modern preconstruction for people moving construction forward. A higher standard from the start.
 
 <br>
