@@ -23,9 +23,9 @@ Bring your music and vision together in one artist home.
 
 <br>
 
-<img src="images/polis-watch.jpg?rev=2d6402c" alt="Polis.Watch — Look closer — Where the story meets the record" width="100%">
+<a href="https://nikzados-polis-watch.vercel.app"><img src="images/polis-watch.jpg?rev=2d6402c" alt="Polis.Watch — Look closer — Where the story meets the record" width="100%"></a>
 
-**Polis.Watch** · Coming soon<br>
+**[Polis.Watch](https://nikzados-polis-watch.vercel.app)** · Coming soon<br>
 Explore politicians’ records and the evidence behind their positions.
 
 <br>
@@ -37,14 +37,14 @@ Modern preconstruction for people moving construction forward. A higher standard
 
 <br>
 
-<img src="images/fiil.jpg?rev=2d6402c" alt="fiil — Your personal coach for self-discovery and growth" width="100%">
+<a href="https://fiil.life"><img src="images/fiil.jpg?rev=2d6402c" alt="fiil — Your personal coach for self-discovery and growth" width="100%"></a>
 
-**fiil** · In progress<br>
+**[fiil](https://fiil.life)** · In progress<br>
 Get to know yourself through a guided journey of reflection, practice, and discovery.
 
 <br>
 
-<img src="images/flooow.jpg?rev=2d6402c" alt="Flooow — Follow your curiosity" width="100%">
+<a href="https://flooow.space"><img src="images/flooow.jpg?rev=2d6402c" alt="Flooow — Follow your curiosity" width="100%"></a>
 
-**Flooow** · In progress<br>
+**[Flooow](https://flooow.space)** · In progress<br>
 Explore any topic at your chosen depth with a personal audio learning series. Shape your path, listen on the go, and continue where you left off.
